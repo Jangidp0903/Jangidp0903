@@ -81,7 +81,7 @@
 <h3 align="start">📊 Technology Overview</h3>
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,git,github,cpp,c,python,firebase,vscode,photoshop&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,git,github,cpp,c,python,firebase,vscode,photoshop" />
 </p>
 
 <!-- Custom Divider -->
@@ -91,12 +91,12 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=Jangidp0903&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&text_color=000000" alt="Puneet's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jangidp0903&theme=default&hide_border=false&background=ffffff&stroke=000000&currStreakNum=000000&sideNums=000000" alt="Puneet's GitHub streak" width="48%" />
 </div>
 
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jangidp0903&layout=compact&theme=default&hide_border=false&bg_color=ffffff&text_color=000000" alt="Top Languages" width="50%" />
 </div>
 
