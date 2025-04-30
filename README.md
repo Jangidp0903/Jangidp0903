@@ -1,5 +1,8 @@
 <!-- Banner -->
- <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Jangidp0903&txt=Full%20Stack%20Developer&bg=darkblue&fill=white" alt="GitHub Profile Banner" />
+<p align="center">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Jangidp0903&txt=Full%20Stack%20Developer&bg=darkblue&fill=white" alt="GitHub Profile Banner" />
+</p>
+
 
 <h1 align="center">Hey there 👋, I'm Puneet Jangid</h1>
 <h3 align="center">🚀 Passionate MERN Stack Developer | Web Designer | Tech Enthusiast from India 🇮🇳</h3>
