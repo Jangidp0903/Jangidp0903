@@ -107,7 +107,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jangidp0903&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jangidp0903&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <!-- Custom Divider -->
@@ -117,7 +117,7 @@
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jangidp0903&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jangidp0903&theme=xcode&hide_border=true&bg_color=0D1117&color=FFFFFF&line=1F6FEB&point=FFFFFF&title_color=FFFFFF" alt="Contribution Graph" width="98%" />
 </p>
 
 <!-- Custom Divider -->
