@@ -92,12 +92,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jangidp0903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Puneet's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jangidp0903&theme=radical&hide_border=true&background=0D1117" alt="Puneet's GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jangidp0903&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&text_color=000000" alt="Puneet's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jangidp0903&theme=default&hide_border=false&background=ffffff&stroke=000000&currStreakNum=000000&sideNums=000000" alt="Puneet's GitHub streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jangidp0903&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jangidp0903&layout=compact&theme=default&hide_border=false&bg_color=ffffff&text_color=000000" alt="Top Languages" width="50%" />
 </div>
 
 <!-- Custom Divider -->
