@@ -110,7 +110,7 @@
 ## 📈 Contribution Activity
 
 <p style="margin: 30px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jangidp0903&theme=react-light&hide_border=true&color=000000&line=2962FF&point=000000&title_color=2962FF" alt="Contribution Graph" width="100%" style="max-width: 800px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jangidp0903&theme=react-light&hide_border=true&color=000000&line=2962FF&point=000000&title_color=ffffff" alt="Contribution Graph" width="100%" style="max-width: 800px;" />
 </p>
 
 <!-- Custom Divider -->
