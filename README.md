@@ -82,7 +82,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 40px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 40px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Jangidp0903&show_icons=true&theme=light&hide_border=true&text_color=1A202C&title_color=1E40AF&bg_color=FFFFFF" alt="Puneet's GitHub stats" width="45%" style="max-width: 340px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jangidp0903&theme=light&hide_border=true&stroke=1E40AF&currStreakNum=1A202C&sideNums=1A202C&title_color=1E40AF&bg_color=FFFFFF" alt="Puneet's GitHub streak" width="45%" style="max-width: 340px;" />
 </div>
