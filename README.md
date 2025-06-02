@@ -39,7 +39,6 @@
       - ⚡ Fun fact: <strong>I turn coffee into code and thrive on solving complex problems!</strong>
     </p>
   </div>
-  <img src="https://i.imgur.com/8y0U7vX.png" width="160" alt="Developer Illustration" style="border-radius: 10px;">
 </div>
 
 <!-- Custom Divider -->
@@ -148,6 +147,5 @@
 <!-- Footer -->
 <div align="center" style="margin-top: 40px;">
   <p style="font-size: 15px; color: #333; font-style: italic; margin-bottom: 10px;">"Code is like humor. When you have to explain it, it's bad." – Cory House</p>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2962FF&height=60§ion=footer" width="100%"/>
 </div>
 
