@@ -147,6 +147,5 @@
 <!-- Footer -->
 <div align="center" style="margin-top: 30px;">
   <p style="font-size: 15px; color: #333; font-style: italic;">"Code is like humor. When you have to explain it, it's bad." – Cory House</p>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2962FF&height=70&section=footer" width="100%"/>
 </div>
 
