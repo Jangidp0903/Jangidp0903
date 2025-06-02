@@ -1,35 +1,35 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2962FF,100:00BFA6&height=200§ion=header&text=Puneet%20Jangid&fontSize=60&fontColor=fff&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2962FF&height=180&section=header&text=Puneet%20Jangid&fontSize=50&fontColor=fff&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 </div>
 
-<h1 align="center">Welcome to My GitHub Profile 🚀</h1>
+<h1 align="center" style="margin: 20px 0; color: #333;">Welcome to My GitHub Profile 🚀</h1>
 
-<p align="center" style="font-size: 18px; color: #333;">
+<p align="center" style="font-size: 18px; color: #333; margin: 10px 0;">
   Building modern web applications | MERN Stack Developer | Problem Solver | Continuous Learner
 </p>
 
-<p align="center">
-  <a href="mailto:puneetjangid637@gmail.com"><img src="https://img.shields.io/badge/Email-puneetjangid637-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/puneet-jangid-133286288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Puneet_Jangid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://puneet-jangid.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-puneet--jangid-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<p align="center" style="margin: 15px 0;">
+  <a href="mailto:puneetjangid637@gmail.com"><img src="https://img.shields.io/badge/Email-puneetjangid637-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/puneet-jangid-133286288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Puneet_Jangid-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://puneet-jangid.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-puneet--jangid-000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<p align="center" style="margin: 15px 0;">
   <img src="https://img.shields.io/github/followers/Jangidp0903?style=social" alt="GitHub Followers" />
-  <a href="https://puneet-jangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Check_My_Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://puneet-jangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Check_My_Work-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <!-- Custom Divider -->
-<div align="center">
-  <hr style="border: 1px solid #2962FF; width: 60%; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
+  <hr style="border: 1px solid #2962FF; width: 50%;">
 </div>
 
 ## 💫 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between; max-width: 800px; margin: 0 auto;">
-  <div style="text-align: left;">
-    <p style="font-size: 16px; color: #333;">
+<div style="display: flex; align-items: center; justify-content: center; max-width: 900px; margin: 0 auto; gap: 30px;">
+  <div style="text-align: left; flex: 1;">
+    <p style="font-size: 16px; color: #333; line-height: 1.6;">
       - 🔭 I'm currently building <strong>Modern Web Applications with MERN Stack</strong><br>
       - 🌱 I'm learning <strong>Next.js, TypeScript, AWS & DevOps</strong><br>
       - 👨‍💻 All of my projects are available on <a href="https://github.com/Jangidp0903?tab=repositories">GitHub</a><br>
@@ -38,19 +38,19 @@
       - ⚡ Fun fact: <strong>I love turning coffee into code and solving complex problems!</strong>
     </p>
   </div>
-  <img src="https://i.imgur.com/8y0U7vX.png" width="250" alt="Developer Illustration" style="border-radius: 10px;">
+  <img src="https://i.imgur.com/8y0U7vX.png" width="200" alt="Developer Illustration" style="border-radius: 8px;">
 </div>
 
 <!-- Custom Divider -->
-<div align="center">
-  <hr style="border: 1px solid #2962FF; width: 60%; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
+  <hr style="border: 1px solid #2962FF; width: 50%;">
 </div>
 
 ## 🛠️ My Tech Stack
 
-<h3 align="left">💻 Languages & Frameworks</h3>
+<h3 align="center" style="color: #333; margin: 15px 0;">💻 Languages & Frameworks</h3>
 
-<p align="left">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
@@ -65,9 +65,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
-<h3 align="left">🧰 Tools & Platforms</h3>
+<h3 align="center" style="color: #333; margin: 15px 0;">🧰 Tools & Platforms</h3>
 
-<p align="left">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
@@ -78,58 +78,58 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
 </p>
 
-<h3 align="left">📊 Technology Overview</h3>
+<h3 align="center" style="color: #333; margin: 15px 0;">📊 Technology Overview</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,git,github,cpp,c,python,firebase,vscode,figma,photoshop" />
 </p>
 
 <!-- Custom Divider -->
-<div align="center">
-  <hr style="border: 1px solid #2962FF; width: 60%; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
+  <hr style="border: 1px solid #2962FF; width: 50%;">
 </div>
 
 ## 📊 GitHub Statistics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jangidp0903&show_icons=true&theme=light&hide_border=true&bg_color=FFFFFF&text_color=000000&title_color=2962FF" alt="Puneet's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jangidp0903&theme=light&hide_border=true&background=FFFFFF&stroke=2962FF&currStreakNum=000000&sideNums=000000&title_color=2962FF" alt="Puneet's GitHub streak" width="48%" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jangidp0903&show_icons=true&theme=light&hide_border=true&text_color=000000&title_color=2962FF" alt="Puneet's GitHub stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jangidp0903&theme=light&hide_border=true&stroke=2962FF&currStreakNum=000000&sideNums=000000&title_color=2962FF" alt="Puneet's GitHub streak" width="45%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jangidp0903&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&text_color=000000&title_color=2962FF" alt="Top Languages" width="50%" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jangidp0903&layout=compact&theme=light&hide_border=true&text_color=000000&title_color=2962FF" alt="Top Languages" width="45%" />
 </div>
 
 <!-- Custom Divider -->
-<div align="center">
-  <hr style="border: 1px solid #2962FF; width: 60%; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
+  <hr style="border: 1px solid #2962FF; width: 50%;">
 </div>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jangidp0903&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+<p align="center" style="margin: 20px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jangidp0903&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <!-- Custom Divider -->
-<div align="center">
-  <hr style="border: 1px solid #2962FF; width: 60%; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
+  <hr style="border: 1px solid #2962FF; width: 50%;">
 </div>
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jangidp0903&theme=react-light&hide_border=true&bg_color=FFFFFF&color=000000&line=2962FF&point=000000&title_color=2962FF" alt="Contribution Graph" width="90%" />
+<p align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jangidp0903&theme=react-light&hide_border=true&color=000000&line=2962FF&point=000000&title_color=2962FF" alt="Contribution Graph" width="85%" />
 </p>
 
 <!-- Custom Divider -->
-<div align="center">
-  <hr style="border: 1px solid #2962FF; width: 60%; margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
+  <hr style="border: 1px solid #2962FF; width: 50%;">
 </div>
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   <a href="https://www.linkedin.com/in/puneet-jangid-133286288" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -145,7 +145,8 @@
 </p>
 
 <!-- Footer -->
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 30px;">
   <p style="font-size: 16px; color: #333;"><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,6,28,32&height=100§ion=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2962FF&height=80&section=footer" width="100%"/>
 </div>
+
