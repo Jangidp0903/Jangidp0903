@@ -55,12 +55,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&color=transparent" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&color=transparent" alt="Express">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&color=transparent" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&color=transparent" alt="MySQL">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&color=transparent" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white&color=transparent" alt="Redux">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&color=transparent" alt="C++">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black&color=transparent" alt="C">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=transparent" alt="Python">
 </p>
 
 <h3 style="color: #222; margin: 25px 0; font-size: 26px; font-weight: 600;">🧰 Tools & Platforms</h3>
@@ -71,15 +67,12 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&color=transparent" alt="VS Code">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&color=transparent" alt="Firebase">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&color=transparent" alt="Vercel">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&color=transparent" alt="AWS">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&color=transparent" alt="Figma">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&color=transparent" alt="Photoshop">
 </p>
 
 <h3 style="color: #222; margin: 25px 0; font-size: 26px; font-weight: 600;">📊 Technology Overview</h3>
 
 <p style="margin: 15px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,git,github,cpp,c,python,firebase,vscode,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,firebase,vscode" />
 </p>
 
 <!-- Custom Divider -->
@@ -106,7 +99,7 @@
 ## 🏆 GitHub Trophies
 
 <p style="margin: 30px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jangidp0903&theme=flat&column=5&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jangidp0903&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <!-- Custom Divider -->
