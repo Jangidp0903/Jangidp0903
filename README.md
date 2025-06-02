@@ -99,7 +99,7 @@
 ## 🏆 Achievements
 
 <p style="margin: 35px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jangidp0903&theme=chalk&column=5&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jangidp0903&theme=chalk&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <!-- Custom Divider -->
